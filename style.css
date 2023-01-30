@@ -46,7 +46,7 @@ h6 {
   width: 1200px;
   margin: 0 auto;
 }
-#scrollUp{background: url(img/scroll.png) no-repeat; bottom: 5px; right: 5px; display: block;text-indent: -99999px; width: 30px; height: 30px;}
+#scrollUp{background: url(../img/scroll.png) no-repeat; bottom: 5px; right: 5px; display: block;text-indent: -99999px; width: 30px; height: 30px;}
 .slicknav_menu{display: none;}
 
 /* header css */
@@ -248,7 +248,7 @@ h6 {
 
 /* Contact area */
 
-.contact_area{background: url(img/contact3.jpg) ; background-size: cover;background-color: #101f38;padding: 50px 0;width: 100%;overflow: hidden;}
+.contact_area{background: url(../img/contact3.jpg) ; background-size: cover;background-color: #101f38;padding: 50px 0;width: 100%;overflow: hidden;}
 .contact_area .inner_contact{width: 900px; max-width:100%;overflow : hidden;margin: 0 auto;}
 .contact_area .inner_contact h2.title{text-align: center;font-weight: 400 ;  font-family: "Oswald", sans-serif; color: #fff;font-size: 36px;}
 .contact_area .main_contact_form{width: 100%; overflow: hidden;margin-top: 20px;text-align: center;}
