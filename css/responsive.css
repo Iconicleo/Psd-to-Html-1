@@ -1,0 +1,68 @@
+/* Tablet Layout */
+@media only screen and (min-width: 200px) and (max-width:991px){
+    .content{max-width: 98%;}
+    .slider_area .bx-wrapper .bx-pager .bx-pager-link {
+        border: 3px solid #6a3144;
+        width: 20px;
+        height: 20px;
+       
+        margin: 0 5px;
+    }
+    
+
+.welcome_area .left_welcome {
+   width: 85%;}
+   .welcome_area .right_welcome {
+    width: 100%;
+    margin-top: 20px;
+
+}
+.welcome_area .right_welcome img{width: 58%;
+    height: auto;
+    right: 143px;
+    bottom: 18px;}
+.welcome_area, .service_area {
+    
+    padding: 20px 0;
+}
+.service_area .inner_service h2.title { 
+    font-size: 25px;    
+}
+.service_area .child_service {
+ 
+    padding: 130px 22px 49px 84px;}
+
+    .footer_area .footer_logo img{
+        width: 20%;
+    }
+
+}
+
+/* mobile layout */
+@media only screen and (min-width: 200px) and (max-width:767px){
+    .top_header_area .social_area{width: 100%;}
+    .top_header_area .social_area ul{text-align: center;}
+    .top_header_area .search_area{display: none;}
+
+    
+
+        
+        .main_menu{display: none;}
+        .service_area .child_service {
+            padding: 50px 55px 25px 110px;
+            width: 100%;
+        }
+        .contact_area .main_contact_form input[type='submit'] {
+            
+            width: 200px;
+            
+            font-size: 15px;
+           
+        }
+        .slicknav_menu {    
+            display: block;
+            background: #97455f !important;}
+}
+    
+
+   
